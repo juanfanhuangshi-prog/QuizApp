@@ -1,0 +1,5 @@
+<resources>
+    <color name="brand">#1E6FD9</color>
+    <color name="correct">#2E9E4F</color>
+    <color name="wrong">#D93A3A</color>
+</resources>
